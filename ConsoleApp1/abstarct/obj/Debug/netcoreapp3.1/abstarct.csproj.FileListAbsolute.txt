@@ -1,0 +1,13 @@
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\bin\Debug\netcoreapp3.1\abstarct.exe
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\bin\Debug\netcoreapp3.1\abstarct.deps.json
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\bin\Debug\netcoreapp3.1\abstarct.runtimeconfig.json
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\bin\Debug\netcoreapp3.1\abstarct.runtimeconfig.dev.json
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\bin\Debug\netcoreapp3.1\abstarct.dll
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\bin\Debug\netcoreapp3.1\abstarct.pdb
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\obj\Debug\netcoreapp3.1\abstarct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\obj\Debug\netcoreapp3.1\abstarct.AssemblyInfoInputs.cache
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\obj\Debug\netcoreapp3.1\abstarct.AssemblyInfo.cs
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\obj\Debug\netcoreapp3.1\abstarct.csproj.CoreCompileInputs.cache
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\obj\Debug\netcoreapp3.1\abstarct.dll
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\obj\Debug\netcoreapp3.1\abstarct.pdb
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\abstarct\obj\Debug\netcoreapp3.1\abstarct.genruntimeconfig.cache
