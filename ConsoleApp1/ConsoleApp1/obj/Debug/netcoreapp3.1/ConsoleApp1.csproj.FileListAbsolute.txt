@@ -1,0 +1,5 @@
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
