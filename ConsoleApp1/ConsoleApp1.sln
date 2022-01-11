@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 5", "harjoitus 5\harjoitus 5.csproj", "{DA3BFF94-6501-4591-955D-41760EBA9AD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "perintä", "perintä\perintä.csproj", "{4DD5A0FC-0410-475C-BDF6-FDBE9C3A425E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DA3BFF94-6501-4591-955D-41760EBA9AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3BFF94-6501-4591-955D-41760EBA9AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3BFF94-6501-4591-955D-41760EBA9AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD5A0FC-0410-475C-BDF6-FDBE9C3A425E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD5A0FC-0410-475C-BDF6-FDBE9C3A425E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD5A0FC-0410-475C-BDF6-FDBE9C3A425E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD5A0FC-0410-475C-BDF6-FDBE9C3A425E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

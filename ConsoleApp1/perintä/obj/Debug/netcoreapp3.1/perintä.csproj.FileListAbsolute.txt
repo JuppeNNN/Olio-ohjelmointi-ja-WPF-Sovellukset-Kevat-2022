@@ -1,0 +1,14 @@
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\bin\Debug\netcoreapp3.1\perintä.exe
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\bin\Debug\netcoreapp3.1\perintä.deps.json
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\bin\Debug\netcoreapp3.1\perintä.runtimeconfig.json
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\bin\Debug\netcoreapp3.1\perintä.runtimeconfig.dev.json
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\bin\Debug\netcoreapp3.1\perintä.dll
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\bin\Debug\netcoreapp3.1\perintä.pdb
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\obj\Debug\netcoreapp3.1\perintä.csproj.AssemblyReference.cache
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\obj\Debug\netcoreapp3.1\perintä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\obj\Debug\netcoreapp3.1\perintä.AssemblyInfoInputs.cache
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\obj\Debug\netcoreapp3.1\perintä.AssemblyInfo.cs
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\obj\Debug\netcoreapp3.1\perintä.csproj.CoreCompileInputs.cache
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\obj\Debug\netcoreapp3.1\perintä.dll
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\obj\Debug\netcoreapp3.1\perintä.pdb
+C:\Users\julius.neem\source\repos\JuppeNNN\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\perintä\obj\Debug\netcoreapp3.1\perintä.genruntimeconfig.cache
